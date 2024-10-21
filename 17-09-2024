@@ -1,0 +1,61 @@
+Python introduction: python was introduced by Gudio Van Rossum. It was developed in the year in 1991.Python is
+Interpreted language.Python is used for web development and software development.Python is scripting language.Present
+version of python is 3.11.5.
+What can Python do?:
+• Python can be used on a server to create web applications.
+• Python can be used alongside software to create workflows.
+• Python can connect to database systems. It can also read and modify files
+• Python can be used to handle big data and perform complex mathematics.
+Why Python?
+• Python works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc)
+• Python has a simple syntax similar to the English language.
+• Python can be treated in a procedural way, an object-oriented way or a functional way.
+Features of python:
+• Python is easy to understand.
+• Easy to code
+• Object-oriented programming language
+• Easy to debug
+• High-level-language
+• Gui programming language
+• Dynamically programming language
+• Free and open source language
+• Python is platform independent language
+Limitations of python:
+• Python is slow at run time
+• High memory consumption
+• Run time errors
+• Simplicity
+• Difficulty in using other languages
+• Mobile application development
+Flavours of python:
+• CPython
+• JPython it is java application
+• Iron python is used in .net C# language
+• Rubby python
+• Anaconda python
+• Pypy.
+Applications of python:
+• Web applications
+• Console-based applications
+• Scientific and numeric
+• Image processing
+• Audio and video based applications
+
+What is a Web Framework?
+ 
+A web framework, also known as a web application framework (WAF), is a software framework that helps developers build and deploy web applications.
+
+what is django ?
+
+Django is an open-source web development framework written in Python that can help speed up the development of web applications.it used used to run the server by creating the url.
+
+Advantages of python django.
+
+1.Better API Frameworks
+2.It provides a ready-to-use user interface for administrative activities
+3.Django is used to build all types of systems such as social networks as well as scientific computing platforms.
+4.Django helps you to provide end-to-end application testing.
+
+
+In django MVT means models,views,templates.
+REST Framework has support for several authentication protocol.

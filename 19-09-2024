@@ -1,0 +1,44 @@
+What is identifier?
+In Python, an identifier is a name given to identify a variable, function, class, module, or other object.
+
+Variables:
+variables are containers to store the data. Variable names are case sensitive.
+
+Variable: it used to store the data.
+Variable Names:
+• A variable name must start with a letter or the underscore character
+• Variable names are case sensitive.
+• A variable can not start with a number
+• A variable name must contain alpha numeric characters(0-9)(a-z)(A-Z).
+• A variable name cannot be python keyword.
+
+Types of variables:
+• Int: it returns the integer value.
+• Float: it returns the floating value.
+• String: it represents in the double quotations.it is a collection of alphabets,words.
+• Complex: it contains real part and imaginary part.
+
+Data science:-
+Data Science is the deep study of a large quantity of data, which involves extracting some meaning from the raw, structured, and unstructured data.
+Real-world Applications of Data Science:
+
+Application of Computer Network:
+Internet and world wide web
+Communication
+File Sharing and Data Transfer
+Online Gaming
+Social Media
+Cloud Computing
+
+Desktop applications:
+Security 
+Scientific Research 
+Software Development and Testing
+Gaming 
+
+Applications of Game Development 
+3D Rendering 
+Multiplayer Online Games
+Artificial Intelligence
+Physics Simulations
+
